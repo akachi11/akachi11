@@ -7,7 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akachi11" alt="akachi11" /></a> </p>
 
+- 🔭 I’m currently working on **Spotify-like React app**
+
 - 🌱 I’m currently learning **React, Node.js**
+
+- 🤝 I’m looking for help with **Getting jobs**
+
+- 👨‍💻 All of my projects are available at [www.github.com/akachi11](www.github.com/akachi11)
 
 - 💬 Ask me about **JS, HTML, CSS, Python**
 
@@ -15,6 +21,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/ogogor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akachi11" height="30" width="40" /></a>
+<a href="https://twitter.com/akachicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akachicodes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ogogor-chimadika-888195246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogogor-chimadika" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22062381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22062381" height="30" width="40" /></a>
+<a href="https://instagram.com/akac_yber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akac_yber" height="30" width="40" /></a>
+<a href="https://dribbble.com/akachi11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="akachi11" height="30" width="40" /></a>
+<a href="https://www.behance.net/xavierjones19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="akachi11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
