@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akachi11" alt="akachi11" /></a> </p>
 
-- 🔭 I’m currently working on [A live image sharing platform](https://akachishareme.netlify.app/)
+- 🔭 I’m currently working on [A stock photo platform](https://www.stockafrika.com/)
 
 - 🌱 I’m currently learning **React, Node.js**
 
